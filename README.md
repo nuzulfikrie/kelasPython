@@ -1,3 +1,5 @@
+[logo]: [https://www.python.org/static/img/python-logo.png]
+
 # Python Class for Teenagers
 
 Welcome to our Python Class for Teenagers! This repository contains all the necessary resources and materials to help you embark on an exciting journey of learning Python programming. Whether you're a complete beginner or have some coding experience, this class will provide you with a solid foundation in Python and equip you with valuable skills for the future.
@@ -33,7 +35,7 @@ To get started with the Python class, follow these steps:
 2. Clone the Repository: Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/python-class.git
+   git clone https://github.com/nuzulfikrie/kelasPython.git
    ```
 
 3. Navigate to the Repository: Change your current directory to the cloned repository:
