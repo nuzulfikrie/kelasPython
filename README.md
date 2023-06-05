@@ -1,5 +1,31 @@
 ![logo](https://www.python.org/static/img/python-logo.png)
 
+![Image](img1.jpg)
+
+## KELAS FIZIKAL: ASAS PYTHON SIRI 1 bersama sir Fikrie
+
+Hey there! If you're interested in learning a programming language that's super flexible and easy to read, Python is a great choice! It's actually one of the most popular programming languages out there, and people use it for all sorts of things like web development, software development, data science and analytics, and quality assurance.
+
+### Skills you'll gain
+
+- Learn to write programs in Python 3
+- Simplify your code and make it easier to read
+- Take your skills off this platform and into the real world!
+
+### Tentang kursus ini
+
+Jika anda mencari bahasa pengaturcaraan yang fleksibel dan mudah dibaca, cubalah belajar Python. Ia merupakan salah satu bahasa yang paling popular pada masa kini, dan pengaturcaraan dalam Python digunakan untuk pelbagai bidang, termasuk pembangunan web dan perisian, sains data dan analitik, serta jaminan kualiti.
+
+### Kemahiran yang akan anda perolehi
+
+- Menulis program Python 3
+- Menyederhanakan kod yang anda tulis
+- Mengambil kemahiran anda ke luar platform
+
+### Links
+
+[Directory](../kelasPython/Pages/directory.md)
+
 # Python Class for Teenagers
 
 Welcome to our Python Class for Teenagers! This repository contains all the necessary resources and materials to help you embark on an exciting journey of learning Python programming. Whether you're a complete beginner or have some coding experience, this class will provide you with a solid foundation in Python and equip you with valuable skills for the future.
