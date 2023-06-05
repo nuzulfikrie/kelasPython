@@ -1,4 +1,4 @@
-[logo]: [https://www.python.org/static/img/python-logo.png]
+![logo](https://www.python.org/static/img/python-logo.png)
 
 # Python Class for Teenagers
 
@@ -67,3 +67,24 @@ Here are some additional resources to enhance your Python learning journey:
 - [Real Python](https://realpython.com): A collection of in-depth articles, tutorials, and videos on Python programming.
 
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/python):
+
+<!-- in bahasa melayu -->
+
+### Kelas Python untuk Remaja
+
+Selamat datang ke Kelas Python untuk Remaja kami! Repositori ini mengandungi semua sumber dan bahan yang diperlukan untuk membantu anda memulakan perjalanan pembelajaran pemrograman Python yang menarik. Sama ada anda pemula atau mempunyai pengalaman kod, kelas ini akan memberi anda asas yang kukuh dalam Python dan melengkapi anda dengan kemahiran yang berharga untuk masa depan.
+
+## Gambaran Keseluruhan Kursus
+
+Di dalam kelas ini, kami akan meliputi topik-topik berikut:
+
+1. Pengenalan kepada Python: Kenali asas-asas bahasa pemrograman Python, termasuk sintaks, pembolehubah, jenis data, dan operasi asas.
+2. Aliran Kawalan: Ketahui cara mengawal aliran program anda menggunakan penyata bersyarat, gelung, dan operator logik.
+3. Fungsi dan Modul: Teroka konsep fungsi dan cara menentukan dan menggunakannya dalam Python. Temui kuasa modul dan cara memanfaatkan kod yang sedia ada.
+4. Struktur Data: Terjun ke dalam pelbagai struktur data seperti senarai, kamus, tuple, dan set. Fahami sifat-sifat mereka dan ketahui cara memanipulasi dan mengakses data dengan cekap.
+5. Penanganan Fail: Ketahui cara membaca dan menulis ke fail, membolehkan program anda berinteraksi dengan sumber data luaran.
+6. Pemrograman Berorientasikan Objek (OOP): Fahami prinsip OOP dan cara membuat kelas, objek, dan kaedah dalam Python.
+7. Penanganan Ralat: Temui teknik untuk menangani ralat dan pengecualian dengan anggun dalam program Python anda.
+8. Pengenalan kepada Perpustakaan: Teroka perpustakaan Python yang popular dan aplikasi mereka, seperti NumPy, Pandas, dan Matplotlib.
+9. Pengenalan kepada Pembangunan Web: Dapatkan pengenalan kepada pembangunan web menggunakan Python dan kerangka kerja seperti Flask atau Django.
+10. Pengenalan kepada Pembelajaran Mesin: Dapatkan pengenalan kepada pembelajaran mesin menggunakan Python dan perpustakaan seperti Scikit-Learn atau TensorFlow.
